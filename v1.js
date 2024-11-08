@@ -212,7 +212,6 @@ Promise.race([promise1, promise2, promise3])
 
 
 
-
-
+// https://github.com/Khamidov-online/v1.git
 
 "# v1" 
